@@ -1,4 +1,4 @@
-# SQL-Native ELT Pipeline & Dimensional Data Warehouse for Job Market Analytics
+# SQL-Native ELT Pipeline & Dimensional Data Warehouse
 
 A robust SQL-based data pipeline designed to analyze global tech job market trends, remote work opportunities and in-demand skills. Designed to showcase efficient backend data workflows, this project uses DuckDB to ingest raw job posting data from cloud storage and transforms it into a highly optimized star schema to power advanced data analysis.
 
