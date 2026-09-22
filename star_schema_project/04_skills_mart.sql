@@ -1,5 +1,5 @@
 --Skills Mart
-DROP SCHEMA IF EXISTS skills_mart;
+DROP SCHEMA IF EXISTS skills_mart CASCADE;
 CREATE SCHEMA skills_mart;
 
 
